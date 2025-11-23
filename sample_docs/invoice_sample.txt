@@ -1,0 +1,40 @@
+INVOICE
+
+Invoice Number: INV-2024-001234
+Date: 2024-11-15
+Due Date: 2024-12-15
+
+Bill To:
+John Smith
+123 Main Street
+New York, NY 10001
+Email: john.smith@email.com
+Phone: (555) 123-4567
+
+From:
+ABC Company Inc.
+456 Business Ave
+San Francisco, CA 94102
+
+Description                              Quantity    Unit Price    Total
+------------------------------------------------------------------------
+Professional Services - Consulting          10        $150.00    $1,500.00
+Software License (Annual)                    1        $500.00      $500.00
+Technical Support (Monthly)                  3        $100.00      $300.00
+
+------------------------------------------------------------------------
+                                        Subtotal:              $2,300.00
+                                        Tax (8.5%):              $195.50
+                                        Total:                 $2,495.50
+
+Payment Terms: Net 30
+Bank Account: 1234567890
+Routing: 021000021
+
+Thank you for your business!
+
+For questions regarding this invoice, please contact:
+accounts@abccompany.com or call 1-800-555-0199
+
+Social Security Number for tax purposes: 123-45-6789
+Credit Card on File: 4532-1234-5678-9012

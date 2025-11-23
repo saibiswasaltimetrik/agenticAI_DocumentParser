@@ -1,0 +1,49 @@
+================================
+        GROCERY MART
+       Receipt #45678
+================================
+
+Store: #1234 - Downtown Location
+123 Shopping Street
+Boston, MA 02101
+Phone: (617) 555-0123
+
+Date: 2024-11-20
+Time: 14:32:15
+Cashier: Sarah M.
+
+--------------------------------
+ITEMS PURCHASED:
+--------------------------------
+Organic Milk 1 gal        $5.99
+Whole Wheat Bread         $3.49
+Free Range Eggs (12)      $6.99
+Fresh Salmon (1.5 lb)    $14.99
+Organic Spinach           $4.29
+Greek Yogurt (4-pack)     $5.49
+Orange Juice (64oz)       $4.79
+Bananas (bunch)           $1.99
+
+--------------------------------
+SUBTOTAL:                $47.02
+TAX (6.25%):              $2.94
+--------------------------------
+TOTAL:                   $49.96
+--------------------------------
+
+PAYMENT:
+Visa ending in 4567
+Amount: $49.96
+
+Customer: Jane Doe
+Email: jane.doe@gmail.com
+Rewards #: 9876543210
+
+--------------------------------
+Thank you for shopping!
+Visit us at grocerymart.com
+
+Customer Service: 1-800-GROCERY
+Refund Policy: 30 days with receipt
+
+Your IP Address: 192.168.1.105

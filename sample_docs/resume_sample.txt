@@ -1,0 +1,73 @@
+RESUME
+
+PERSONAL INFORMATION
+====================
+Name: Emily Williams
+Email: emily.williams@email.com
+Phone: (415) 555-9876
+Address: 456 Oak Avenue, Apt 12
+         San Francisco, CA 94110
+LinkedIn: linkedin.com/in/emilywilliams
+Date of Birth: March 15, 1990
+
+PROFESSIONAL SUMMARY
+====================
+Experienced software engineer with 8+ years of expertise in full-stack
+development, cloud architecture, and team leadership. Passionate about
+building scalable solutions and mentoring junior developers.
+
+WORK EXPERIENCE
+====================
+Senior Software Engineer
+TechCorp Inc., San Francisco, CA
+June 2020 - Present
+- Led development of microservices architecture serving 10M+ users
+- Managed team of 5 developers across multiple projects
+- Reduced system latency by 40% through optimization
+
+Software Engineer
+StartupXYZ, San Jose, CA
+January 2017 - May 2020
+- Developed core product features using Python and React
+- Implemented CI/CD pipelines reducing deployment time by 60%
+- Collaborated with cross-functional teams on product roadmap
+
+Junior Developer
+WebAgency LLC, Oakland, CA
+August 2015 - December 2016
+- Built responsive web applications for clients
+- Maintained and updated legacy systems
+- Participated in code reviews and sprint planning
+
+EDUCATION
+====================
+Master of Science in Computer Science
+Stanford University, Stanford, CA
+Graduated: June 2015
+GPA: 3.8/4.0
+
+Bachelor of Science in Computer Science
+UC Berkeley, Berkeley, CA
+Graduated: May 2012
+GPA: 3.6/4.0
+
+SKILLS
+====================
+Languages: Python, JavaScript, TypeScript, Java, Go
+Frameworks: React, Django, FastAPI, Node.js
+Cloud: AWS, GCP, Azure
+Databases: PostgreSQL, MongoDB, Redis
+Tools: Docker, Kubernetes, Terraform, Git
+
+CERTIFICATIONS
+====================
+- AWS Solutions Architect Professional (2023)
+- Google Cloud Professional Developer (2022)
+- Certified Kubernetes Administrator (2021)
+
+REFERENCES
+Available upon request
+
+SSN: 555-12-3456 (for background check)
+Passport Number: C98765432
+Credit Card: 5432-1098-7654-3210

@@ -1,0 +1,76 @@
+MEDICAL RECORD
+
+Patient Information
+==================
+Patient Name: David Martinez
+Medical Record Number: MRN-2024-567890
+Date of Birth: 1978-08-22
+SSN: 456-78-9012
+Insurance ID: INS-12345-67890
+
+Contact Information:
+Address: 321 Health Street
+         Los Angeles, CA 90001
+Phone: (213) 555-4321
+Email: david.martinez@email.com
+Emergency Contact: Maria Martinez (Wife) - (213) 555-4322
+
+Provider Information
+==================
+Facility: City General Hospital
+Department: Internal Medicine
+Provider: Dr. Sarah Thompson, MD
+Provider ID: NPI-1234567890
+Date of Visit: 2024-11-18
+
+Visit Summary
+==================
+Chief Complaint: Routine annual physical examination
+
+Vital Signs:
+- Blood Pressure: 128/82 mmHg
+- Heart Rate: 72 bpm
+- Temperature: 98.6°F
+- Weight: 185 lbs
+- Height: 5'10"
+- BMI: 26.5
+
+Medical History:
+- Type 2 Diabetes (diagnosed 2018)
+- Hypertension (diagnosed 2020)
+- Seasonal allergies
+
+Current Medications:
+1. Metformin 500mg - twice daily
+2. Lisinopril 10mg - once daily
+3. Cetirizine 10mg - as needed
+
+Lab Results:
+- HbA1c: 6.8%
+- Fasting Glucose: 118 mg/dL
+- Total Cholesterol: 205 mg/dL
+- LDL: 128 mg/dL
+- HDL: 52 mg/dL
+
+Assessment and Plan
+==================
+1. Type 2 Diabetes - well controlled, continue current medication
+2. Hypertension - controlled, continue current medication
+3. Hyperlipidemia - borderline high, recommend dietary changes
+
+Follow-up: 6 months
+
+Prescriptions:
+- Continue Metformin 500mg BID
+- Continue Lisinopril 10mg QD
+- Add Omega-3 fish oil supplement
+
+Patient Signature: ____________________
+Date: 2024-11-18
+
+Provider Signature: Dr. Sarah Thompson, MD
+NPI: 1234567890
+DEA: AT1234567
+
+Credit Card for Co-pay: 4111-2222-3333-4444
+Bank Account: 8765432109

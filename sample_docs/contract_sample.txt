@@ -1,0 +1,72 @@
+SERVICE AGREEMENT CONTRACT
+
+Contract Number: SA-2024-78901
+Effective Date: 2024-01-01
+Termination Date: 2025-12-31
+
+PARTIES:
+
+This Service Agreement ("Agreement") is entered into by and between:
+
+CLIENT:
+Name: Robert Johnson
+Company: Tech Innovations LLC
+Address: 789 Corporate Blvd, Suite 500
+         Chicago, IL 60601
+Email: r.johnson@techinnovations.com
+Phone: (312) 555-7890
+Tax ID: 12-3456789
+
+SERVICE PROVIDER:
+Name: Professional Services Corp
+Address: 100 Service Plaza
+         Austin, TX 78701
+Email: contracts@proservices.com
+Phone: (512) 555-1234
+EIN: 98-7654321
+
+TERMS AND CONDITIONS:
+
+1. SCOPE OF SERVICES
+   Provider agrees to deliver professional consulting services including:
+   - Strategic planning and analysis
+   - Technology implementation
+   - Staff training and development
+   - Ongoing technical support
+
+2. COMPENSATION
+   Client agrees to pay Provider:
+   - Monthly retainer: $15,000
+   - Additional services: $200/hour
+   - Expenses: Reimbursed at cost
+
+3. PAYMENT TERMS
+   - Payment due within 30 days of invoice
+   - Late payments subject to 1.5% monthly interest
+   - Bank transfer to Account: 9876543210, Routing: 021000089
+
+4. CONFIDENTIALITY
+   Both parties agree to maintain strict confidentiality of all
+   proprietary information shared during the engagement.
+
+5. GOVERNING LAW
+   This Agreement shall be governed by the laws of the State of Texas.
+
+6. TERMINATION
+   Either party may terminate with 90 days written notice.
+
+SIGNATURES:
+
+Client Representative: ____________________
+Name: Robert Johnson
+Date: 2024-01-01
+SSN (for verification): 987-65-4321
+
+Provider Representative: ____________________
+Name: Michael Chen
+Title: VP of Operations
+Date: 2024-01-01
+Passport: AB1234567
+
+Driver's License: D12345678
+Date of Birth: 1985-06-15
